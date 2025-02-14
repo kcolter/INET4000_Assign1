@@ -15,5 +15,6 @@ namespace AquariumForum.Data
         }
 
         public DbSet<AquariumForum.Models.Discussion> Discussion { get; set; } = default!;
+        public DbSet<AquariumForum.Models.Comment> Comment { get; set; } = default!;
     }
 }

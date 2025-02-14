@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Controllers\\CommentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:28:31.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DiscussionsController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Controllers\\DiscussionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\DiscussionsController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Controllers\\DiscussionsController.cs",
               "RelativeToolTip": "Controllers\\DiscussionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T19:26:17.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Discussion.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Models\\Discussion.cs",
               "RelativeDocumentMoniker": "Models\\Discussion.cs",
@@ -69,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
