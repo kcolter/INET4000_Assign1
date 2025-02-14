@@ -13,7 +13,6 @@ namespace AquariumForum.Models
 
         //property for file upload, no EF mapping
         [NotMapped]
-        [Display(Name = "Image")]
         public IFormFile? ImageFile { get; set; }
 
         //Navigation property

@@ -54,7 +54,7 @@ namespace AquariumForum.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("DiscussionId,Title,Content,ImageFilename,CreateDate")] Discussion discussion)
+        public async Task<IActionResult> Create([Bind("DiscussionId,Title,Content,ImageFilename,CreateDate,ImageFile")] Discussion discussion)
         {
             if (ModelState.IsValid)
             {
