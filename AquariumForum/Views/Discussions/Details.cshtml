@@ -16,6 +16,15 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Title)
         </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ImageFile)
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@Url.Content("/images/" + Model.ImageFilename)" alt="Image for thread with title '@Model.Title'"
+                 class="img-thumbnail w-100" />
+        </dd>
+
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Content)
         </dt>
