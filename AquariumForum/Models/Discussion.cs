@@ -8,11 +8,16 @@ namespace AquariumForum.Models
         public int DiscussionId { get; set; } //primary key
         public string Title { get; set; } = string.Empty;
         public string Content {  get; set; } = string.Empty;
+
+        [Display(Name = "Image Filename")]
         public string ImageFilename { get; set; } = string.Empty;
+
+        [Display(Name = "Creation Date")]
         public DateTime CreateDate { get; set; } = DateTime.Now;
 
         //property for file upload, no EF mapping
         [NotMapped]
+        [Display(Name = "Image")]
         public IFormFile? ImageFile { get; set; }
 
         //Navigation property

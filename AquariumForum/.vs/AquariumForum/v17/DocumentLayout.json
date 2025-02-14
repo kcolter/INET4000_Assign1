@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\views\\discussions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:views\\discussions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\views\\discussions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:views\\discussions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\views\\discussions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:views\\discussions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\views\\discussions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:views\\discussions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\views\\discussions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:views\\discussions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\models\\discussion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:controllers\\discussionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\views\\discussions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:views\\discussions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|c:\\users\\pc\\desktop\\inet4000-assign1\\aquariumforum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9528AC4-AFBD-42BB-89CC-0D5BF5AE9496}|AquariumForum.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,71 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Discussion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Models\\Discussion.cs",
+              "RelativeDocumentMoniker": "Models\\Discussion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Models\\Discussion.cs",
+              "RelativeToolTip": "Models\\Discussion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:44:47.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Discussions\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Delete.cshtml*",
-              "RelativeToolTip": "Views\\Discussions\\Delete.cshtml*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Discussions\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-14T23:30:17.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T23:26:25.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Discussions\\Index.cshtml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Index.cshtml",
               "RelativeToolTip": "Views\\Discussions\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-14T23:16:17.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\Details.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Details.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\Details.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T23:12:28.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Discussions\\Create.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Discussions\\Create.cshtml",
-              "RelativeToolTip": "Views\\Discussions\\Create.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T20:49:57.6Z",
               "EditorCaption": ""
             },
             {
@@ -124,26 +90,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Discussion.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Models\\Discussion.cs",
-              "RelativeDocumentMoniker": "Models\\Discussion.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Models\\Discussion.cs",
-              "RelativeToolTip": "Models\\Discussion.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:12:08.356Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T23:35:26.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\INET4000-Assign1\\AquariumForum\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T19:05:44.277Z",
               "EditorCaption": ""
