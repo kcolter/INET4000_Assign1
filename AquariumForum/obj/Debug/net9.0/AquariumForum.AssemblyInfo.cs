@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AquariumForum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2996538683a28da1393eb7b1ce71deb7306b7cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5579b586d88b9b5c0288df73165f8d50583bf364")]
 [assembly: System.Reflection.AssemblyProductAttribute("AquariumForum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AquariumForum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
