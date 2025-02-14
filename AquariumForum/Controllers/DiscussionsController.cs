@@ -58,6 +58,23 @@ namespace AquariumForum.Controllers
         {
             if (ModelState.IsValid)
             {
+                //generate CreateDate
+                discussion.CreateDate = DateTime.Now;
+
+                //rename uploaded file to guid before photo saved to DB, using ImageFile for the extension
+                discussion.ImageFilename = Guid.NewGuid().ToString() + Path.GetExtension(discussion.ImageFile?.FileName);
+
+                //if ImageFile is present, save in our db using the unique filename generated above
+                if (discussion.ImageFile != null)
+                {
+                    string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", discussion.ImageFilename);
+                    
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await discussion.ImageFile.CopyToAsync(fileStream); //await the file copy to /images
+                    }
+                }
+
                 _context.Add(discussion);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
