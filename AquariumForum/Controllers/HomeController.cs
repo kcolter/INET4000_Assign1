@@ -23,6 +23,13 @@ namespace AquariumForum.Controllers
             return View(discussions); //pass in our ordered discussions
         }
 
+        public async Task<IActionResult> GetDiscussion(int id)
+        {
+            //get discussion by id
+            var discussionOfInterest = await _context.Discussion.FindAsync(id);
+            return View(discussionOfInterest);
+        } 
+
         public IActionResult Privacy()
         {
             return View();

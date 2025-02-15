@@ -18,7 +18,7 @@
 
         <img src="@Url.Content("/images/" + item.ImageFilename)" alt="Image for thread with title '@item.Title'"
              class="img-thumbnail w-25" />
-        <p>@item.Title</p>
+        <a href="@Url.Action("GetDiscussion", "Home", new {id = item.DiscussionId})">@item.Title</a>
         <p>Comments: @numComments</p>
         <p>Created at @item.CreateDate</p>
 
