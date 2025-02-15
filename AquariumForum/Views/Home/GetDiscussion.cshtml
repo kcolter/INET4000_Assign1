@@ -10,22 +10,20 @@
     <img src="@Url.Content("/images/" + Model.ImageFilename)" alt="Image for thread with title '@Model.Title'"
     class="img-thumbnail w-100" />
     <p>@Model.Content</p>
-
     <br />
 
     <a asp-controller="Comments" asp-action="Create">Add a comment</a>
-
     <br />
-
 
     @if(Model.Comments != null){
         var comments = Model.Comments.OrderByDescending(c => c.CreateDate);
 
         foreach(var c in comments){
-            <p>@c.Content</p>
+            <p class="pt-5">@c.Content</p>
             <p>Commented at @c.CreateDate</p>
         }
     } else {
+        //if no comments exist on this discussion display text
         <p>No comments yet, be the first to respond!</p>
     }
 
